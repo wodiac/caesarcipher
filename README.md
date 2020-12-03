@@ -3,5 +3,5 @@
 
 ## usage
  
-- [pip install -r requirements.txt](pip install -r requirements.txt)
-- [python3 caesarcipher.py](python3 caesarcipher.py)
+- pip install -r requirements.txt
+- python3 caesarcipher.py
